@@ -1,6 +1,6 @@
 {
-  "name": "sebastian-berc/repositories",
-  "description": "Flexable Laravel ~5.0 Repository Library.",
+  "name": "wmandai/repositories",
+  "description": "Flexible Laravel Repository Library. Credit: SebastianBerc",
   "keywords": [
     "league",
     "repository"
@@ -9,16 +9,16 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Sebastian Berć",
-      "email": "contact@sebastian-berc.pl",
-      "homepage": "http://sebastian-berc.pl/",
+      "name": "William Mandai",
+      "email": "wm@gitbench.com",
+      "homepage": "https://workice.com",
       "role": "Developer"
     }
   ],
   "require": {
     "php": ">=5.5.9",
-    "illuminate/contracts": "~5.0|~5.1",
-    "illuminate/database": "~5.0|~5.1"
+    "illuminate/contracts": "~5.0|~5.1|~6.0",
+    "illuminate/database": "~5.0|~5.1|~6.0"
   },
   "require-dev": {
     "scrutinizer/ocular": "~1.1",
