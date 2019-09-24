@@ -1,6 +1,6 @@
 {
   "name": "sebastian-berc/repositories",
-  "description": "Flexable Laravel ~5.0 Repository Library.",
+  "description": "Flexible Laravel ~5.0 Repository Library.",
   "keywords": [
     "league",
     "repository"
@@ -17,8 +17,8 @@
   ],
   "require": {
     "php": ">=5.5.9",
-    "illuminate/contracts": "~5.0|~5.1",
-    "illuminate/database": "~5.0|~5.1"
+    "illuminate/contracts": "~5.0|~5.1|~6.0",
+    "illuminate/database": "~5.0|~5.1|~6.0"
   },
   "require-dev": {
     "scrutinizer/ocular": "~1.1",
